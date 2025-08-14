@@ -1,44 +1,44 @@
-# Introduction to GitHub
+# Introducción a GitHub
 
-_Get started using GitHub in less than an hour._
+_Comience a utilizar GitHub en menos de nua hora._
 
-## Welcome
+## Bienvenido
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+La gente usa GitHub para crear algunas de las tecnologías más avanzadas del mundo. Ya sea que estés visualizando datos o creando un nuevo juego, hay toda una comunidad y un conjunto de herramientas en GitHub que pueden ayudarte a hacerlo aún mejor. El ejercicio GitHub Skills’ “Introducción a GitHub” te guía a través de todo lo que necesitas para comenzar a contribuir en menos de una hora.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+- **Para quién es esto**: Nuevos desarrolladores, nuevos usuarios de GitHub, y estudiantes.
+- **Lo que aprenderás**: Introduciremos repositorios, ramas (branch's), confirmaciones (commits), y solicitudes de extracción (pull requests).
+- **Lo que construirás**: Crearemos un archivo Markdown corto que podras usar como tuyo [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **pre-requisitos**: Ninguno. Este ejercicio es una excelente introducción para tu primer día en GitHub.
+- **Cuánto tiempo**: Este ejercicio tarda menos de una hora en completarse.
 
-In this exercise, you will:
+En este ejercicio, usted:
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+1. Crea una rama
+2. Confirma un archivo
+3. Abre una solicitud de extracción (Pull Request)
+4. Fusiona su solicitud de extracción
 
-### How to start this exercise
+### Como empezar este ejercicio
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Simplemente copia el ejercicio a tu cuenta, luego dale unos 20 segundos a tu Octocat favorita (Mona) para preparar la primera lección, y después **actualiza la página.**
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills-dev&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+[![](https://img.shields.io/badge/Copiar%20Ejercicio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills-dev&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>¿Tienes problemas? 🤷</summary><br/>
 
-When copying the exercise, we recommend the following settings:
+Al copiar el ejercicio, recomendamos las siguientes configuraciones:
 
-- For owner, choose your personal account or an organization to host the repository.
+- Para el propietario, elija su cuenta personal o una organización para alojar el repositorio.
 
-- We recommend creating a public repository, since private repositories will use Actions minutes.
+- Recomendamos crear un repositorio público, ya que los repositorios privados utilizarán actas de Acciones.
 
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+Sí el ejercicio no está listo en 20 segundos, por favor verifica el [Actions](../../actions) tab.
 
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
+- Verifique si hay un trabajo en ejecución. A veces simplemente lleva un poco más de tiempo.
 
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+- Si la página muestra un trabajo fallido, envíe un problema. ¡Qué bien, encontraste un error! 🐛
 
 </details>
 
